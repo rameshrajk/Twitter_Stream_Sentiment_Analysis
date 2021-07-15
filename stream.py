@@ -8,11 +8,11 @@ from geopy.geocoders import Nominatim
 
 
 
-# Twitter keys 
-ACCESS_TOKEN = '2919709874-XSnldzPvqZIeowQxhmQFpjivUhQDChyQHBIf87e'
-ACCESS_SECRET = 'IEGDQSmtonZrcou6hxx0xEd2uj6QsFOVZoM2G8q1Jd3B6'
-CONSUMER_KEY = '9yTiTLCW4fcG2jAm1GKvBAcOB'
-CONSUMER_SECRET = 'yBcOb106ytkduA4GhY2aD5oyzSWc3PeZIsFei1gOSDyJTZ9vmj'
+# insert Twitter keys here
+ACCESS_TOKEN = '-'
+ACCESS_SECRET = '-'
+CONSUMER_KEY = '-' 
+CONSUMER_SECRET = '-'
 
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
